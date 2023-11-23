@@ -5,7 +5,7 @@ This repo contains tasks done as an intern at CodeClause.
 - It is built using Java Swings and Apache PDFBox to have an interactive GUI interface.
 - To execute the program, clone the repo and use any IDE to run the file PdfSplitter.java
 - Follow these steps:
-- - Click on 'Select PDF'
+  - Click on 'Select PDF'
   - Choose the desired PDF to be splitted from the file chooser dialog box
   - The name of the selected PDF file will appear below the 'Select PDF' button
   - Type the range of pages to be obtained from the chosen PDF file into a separate pdf
